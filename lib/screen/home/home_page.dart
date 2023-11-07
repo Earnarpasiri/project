@@ -68,7 +68,7 @@ class HomePage extends StatelessWidget {
                     labelStyle: TextStyle(fontSize: 20),
                     labelPadding: EdgeInsets.symmetric(horizontal: 20),
                     tabs: [
-                        Tab(text: "Recommended menu"),
+                        Tab(text: "Recommended menu."),
                     ],
                   ),
                   Flexible(
