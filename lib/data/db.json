@@ -1,0 +1,20 @@
+{
+  "fd": [
+    {
+      "id": 0,
+      "name": "Shrimp Tom Yum",
+      "category": "Food",
+      "description": "300 g River prawn,shelled 300 g Oyster mushroom,cleaned 3-4 Shallot, smashed 3-4 Lemongrass, smashed and cut in 2 inches 3-4 Galangals, sliced 8-9 Kaffir lime leaves, torn 2 tbp.Pounded chili 50 g Tamarind 3 tbp. Chili in oil",
+      "price": 55
+    },
+    {
+      "id": 1,
+      "name": "Lemon Soda",
+      "category": "Drink",
+      "description": "No matter how you drink it, it's delicious.Whether you chill it and drink it without mixing anything,it's delicious. Or create other menus You can also get it, such as red lemon soda.Honey Lemon Soda Raspberry Lemon Soda Lemon Mint Soda Or will it be a menu?Very chic to complement the most chill day like Mojito Mocktail or Shandy,they are equally delicious.",
+      "price": 35
+    }
+
+  ]
+}
+
