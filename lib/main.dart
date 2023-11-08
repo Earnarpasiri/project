@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:project/screen/home/home_page.dart';
 import 'package:project/screen/home/single_item_page.dart';
 import 'package:project/screen/home/single_item_page2.dart';
-import 'package:http/http.dart' as http ;
+
 void main() {
   runApp( MyApp());
 }
